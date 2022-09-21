@@ -11,4 +11,3 @@ function Converter() {
     var valorConvertido = " O valor e R$" + valorEmReal;
     elementoValorConvertido.innerHTML = valorConvertido;
   }
-  
